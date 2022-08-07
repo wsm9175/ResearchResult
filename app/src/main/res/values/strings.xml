@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TADICA</string>
+    <string name="permission_not_allow">권한 허용을 해주셔야 앱 이용이 가능합니다.</string>
+    <string name="permission_denied">세팅에서 권한 허용을 진행해주세요.</string>
+</resources>
